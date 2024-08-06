@@ -1,0 +1,10 @@
+@WhatIfSportsTest_HostAddress = http://localhost:5288
+
+//GET {{WhatIfSportsTest_HostAddress}}/weatherforecast/
+//GET {{WhatIfSportsTest_HostAddress}}/player/player/Players
+//Accept: application/json
+
+GET {{WhatIfSportsTest_HostAddress}}/player/player/playersJSON
+Accept: application/json
+
+###

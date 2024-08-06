@@ -1,0 +1,2 @@
+http://localhost:5288/player/player/GetPlayersFromProvider   calls external site, creates table and populates it
+http://localhost:5288/player/player/players		     gets all players with fields provided in pdf
